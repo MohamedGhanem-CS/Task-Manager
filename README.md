@@ -1,2 +1,18 @@
-# Task-Manager
-A simple Python CLI tool to manage daily tasks
+# 📝 Simple Task Manager (Python)
+
+هذا برنامج بسيط لإدارة المهام اليومية يعمل عن طريق الـ Terminal، قمت ببرمجته باستخدام لغة *Python*.
+
+## ✨ المميزات (Features):
+* إضافة مهام جديدة مع تحديد درجة الأهمية.
+* عرض قائمة المهام الحالية.
+* حذف المهام من القائمة.
+* واجهة مستخدم بسيطة وتفاعلية.
+
+## 🚀 كيف يعمل؟ (How to run):
+1. تأكد من تثبيت Python على جهازك.
+2. قم بتشغيل الملف main.py.
+
+## 🛠️ التقنيات المستخدمة:
+* *Python 3*
+* Lists & Dictionaries
+* Loops & Conditional Statements
